@@ -1,4 +1,4 @@
-# Book-Recommender-System
+# Book Recommender System
 ## Introduction
 This is my end-to-end data science project involving exploratory data analysis, machine learning modeling and web app deployment. In this project, I tried to develop book recommendation system based on data from the Amazon Books. 
 
